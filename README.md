@@ -4,6 +4,14 @@
 
 이 저장소는 수업 운영에 맞춰 **Android 실습 기준**으로 구성되어 있습니다.
 
+## 완성 화면 미리보기
+
+수업을 따라가며 다음과 같은 Todo Manager를 완성합니다.
+
+| 목록 | 추가 | 삭제 | 수정 |
+|:---:|:---:|:---:|:---:|
+| <img src="docs/images/todo_list.png" width="160"> | <img src="docs/images/todo_add.png" width="160"> | <img src="docs/images/todo_delete.png" width="160"> | <img src="docs/images/todo_edit.png" width="160"> |
+
 이 저장소에는 **수업 시작 코드와 Checkpoint 코드만** 들어 있습니다.  
 수업에서는 `lib/main.dart`에서 직접 코드를 수정하면서 앱을 완성합니다.
 
