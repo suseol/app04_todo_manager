@@ -152,7 +152,7 @@ class _TodoListPageState extends State<TodoListPage> {
       builder: (dialogContext) {
         return AlertDialog(
           title: const Text('TODO 삭제'),
-          content: Text('"\${_todos[index].title}" 항목을 삭제할까요?'),
+          content: Text('"${_todos[index].title}" 항목을 삭제할까요?'),
           actions: [
             TextButton(
               onPressed: () => Navigator.pop(dialogContext, false),
